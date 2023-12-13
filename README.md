@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="logo leta.png" alt="Logo" width="120" height="120">
+    <img src="logo leta.png" alt="Logo" width="180" height="120">
 
 <h1 align="center">Rock, Paper, Scissors Prediction</h1>
   <p align="center">
