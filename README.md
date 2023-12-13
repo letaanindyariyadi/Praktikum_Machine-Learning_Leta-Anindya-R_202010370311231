@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ReAlfz/Dataset-Narkotika_160_184">
-    <img src="utils/umm.png" alt="Logo" width="80" height="80">
+    <img src="logo leta.png" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center">Rock, Paper, Scissors Prediction</h1>
