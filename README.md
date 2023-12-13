@@ -10,3 +10,7 @@
     images of rock, paper, scissors.
   </p>
 </div>
+
+
+### Authors
+- Leta Anindya Riyadi ([@231_Leta Anindya Riyadi](https://www.github.com/letaanindyariyadi))
