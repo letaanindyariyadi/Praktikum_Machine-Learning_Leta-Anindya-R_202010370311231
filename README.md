@@ -25,8 +25,7 @@ The dataset used in this project contains a total of 2520 images with an equal p
 
 
 ## Deep Learning Model
-The modelling involves training the dataset with a pre-trained MobileNet model. MobileNet is a lightweight convolutional neural network architecture that is trained on the ImageNet dataset consisting of millions of labeled images accross thousands of categories.
-
+The modelling involves training the dataset with a pre-trained VGG-16. 
 <div>
     <img src="arsitektur-convolutional-neural-networks (1).webp" alt="pretrained_architecture" width="75%">
 </div>
