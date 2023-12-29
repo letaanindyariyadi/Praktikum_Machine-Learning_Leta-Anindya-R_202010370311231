@@ -24,8 +24,4 @@ The dataset used in this project contains a total of 2520 images with an equal p
 </div>
 
 
-## Deep Learning Model
-The modelling involves training the dataset with a pre-trained VGG-16. 
-<div>
-    <img src="arsitektur-convolutional-neural-networks (1).webp" alt="pretrained_architecture" width="75%">
-</div>
+
