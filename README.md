@@ -69,17 +69,17 @@ Based on the classification report, the model excellently predicted the labels f
 
 ## Tampilan Web
 
-Berikut adalah tampilan awal web ketika gambar belum diinput.
+The following is the initial appearance of the web when the image has not been input.
 <div>
     <img src="tampilan 1.png" alt="tampilan 1" width="75%">
 </div>
 
-Berikut adalah tampilan awal web ketika gambar sudah diinput.
+The following is the initial appearance of the web when the image has been input.
 <div>
     <img src="tampilan 2.png" alt="tampilan 2" width="75%">
 </div>
 
-Tampilan web ketika gambar sudah diprediksi akurasinya.
+Web display when the image has been predicted for accuracy.
 <div>
     <img src="tampilan 3.png" alt="tampilan 3" width="75%">
 </div>
