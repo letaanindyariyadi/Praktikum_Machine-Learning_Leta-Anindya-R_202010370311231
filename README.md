@@ -48,3 +48,9 @@ The modelling involves training the dataset with a pre-trained VGG-19
 <div>
     <img src="arsitektur-convolutional-neural-networks (1).webp" alt="pretrained_architecture" width="75%">
 </div>
+
+### Model Training
+Model is trained on the dataset with RMSprop optimizer and *categorical_crossentropy* loss for 3 epochs. Based on the training history graph, the model was able to highly recognize each images in the label without losing the validation accuracy.
+|   Training and Validation accuracy | Training and Validation loss |
+| ------------- | ------------- |
+| ![](downloaad model.png)
