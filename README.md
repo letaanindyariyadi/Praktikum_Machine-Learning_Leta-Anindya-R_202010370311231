@@ -59,3 +59,10 @@ Model is trained on the dataset with RMSprop optimizer and *categorical_crossent
 <div>
     <img src="download model 2.png" alt="model 2" width="75%">
 </div>
+
+### Model Evaluation
+After the model has been trained, the test dataset is used to evaluate the model.
+<div>
+    <img src="evalution.png" alt="eval" width="50%">
+</div>
+Based on the classification report, the model excellently predicted the labels for each images on the test dataset, with 99% overall accuracy.
