@@ -54,4 +54,3 @@ Model is trained on the dataset with RMSprop optimizer and *categorical_crossent
 |   Training and Validation accuracy | Training and Validation loss |
 | ------------- | ------------- |
 | ![](download model.png)  | ![](download model 2.png)  |
-
