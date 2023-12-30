@@ -66,3 +66,20 @@ After the model has been trained, the test dataset is used to evaluate the model
     <img src="evalution.png" alt="eval" width="50%">
 </div>
 Based on the classification report, the model excellently predicted the labels for each images on the test dataset, with 99% overall accuracy.
+
+## Tampilan Web
+
+Berikut adalah tampilan awal web ketika gambar belum diinput.
+<div>
+    <img src="tampilan 1.png" alt="tampilan 1" width="75%">
+</div>
+
+Berikut adalah tampilan awal web ketika gambar sudah diinput.
+<div>
+    <img src="tampilan 2.png" alt="tampilan 2" width="75%">
+</div>
+
+Tampilan web ketika gambar sudah diprediksi akurasinya.
+<div>
+    <img src="tampilan 3.png" alt="tampilan 3" width="75%">
+</div>
