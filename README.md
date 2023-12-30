@@ -41,3 +41,10 @@ Then, the images are loaded using ImageDataGenerator() from the *keras.preproces
 <div>
     <img src="downloadd.png" alt="augmented_dataset" width="75%">
 </div>
+
+## Deep Learning Model
+The modelling involves training the dataset with a pre-trained VGG-19
+
+<div>
+    <img src="arsitektur-convolutional-neural-networks (1).webp" alt="pretrained_architecture" width="75%">
+</div>
