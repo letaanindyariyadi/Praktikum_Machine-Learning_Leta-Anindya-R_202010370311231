@@ -51,6 +51,7 @@ The modelling involves training the dataset with a pre-trained VGG-19
 
 ### Model Training
 Model is trained on the dataset with RMSprop optimizer and *categorical_crossentropy* loss for 3 epochs. Based on the training history graph, the model was able to highly recognize each images in the label without losing the validation accuracy.
-|   Training and Validation accuracy | Training and Validation loss |
-| ------------- | ------------- |
-| ![](downloaad model.png)
+
+<div>
+    <img src="download model.png" alt="model" width="75%">
+</div>
